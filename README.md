@@ -37,7 +37,7 @@ https://catalog.data.gov/dataset/ischemic-stroke-30-day-mortality-and-30-day-rea
   - Top/Bottom hospitals
   - Yearly trends
   - Location-based performance
-Dashboard - Ischemic Stroke.xlsx
+https://onedrive.live.com/:x:/g/personal/DDC6ECB7BBD81A2A/EcL8HhKq0DxJl7JyuJl3P74BPjy--TsURuqDCfxXz87QDw?resid=DDC6ECB7BBD81A2A!s121efcc2d0aa493c97b272b899773fbe&ithint=file%2Cxlsx&e=nUBqOJ&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9kZGM2ZWNiN2JiZDgxYTJhL0VjTDhIaEtxMER4Smw3Snl1SmwzUDc0QlBqeS0tVHNVUnVxRENmeFh6ODdRRHc_ZT1uVUJxT0o
 ## Insights
 - **Average 30-day mortality rate:** ~10.22%
 - **Average 30-day readmission rate:** ~12.10%
