@@ -8,7 +8,8 @@ To evaluate and monitor ischemic stroke outcomes by analyzing **30-day mortality
 - Publicly available healthcare performance datasets containing **risk-adjusted rates** for ischemic stroke outcomes
 - Data categorized by **year**, **country/county**, and **hospital**
 - Covers multiple reporting periods (**2011–2015**)
-https://catalog.data.gov/dataset/ischemic-stroke-30-day-mortality-and-30-day-readmission-rates-and-quality-ratings-for-ca-h-92036
+- Dataset Used:
+- <a href="https://catalog.data.gov/dataset/ischemic-stroke-30-day-mortality-and-30-day-readmission-rates-and-quality-ratings-for-ca-h-92036"
 ## Key Questions / KPIs
 1. What is the **average 30-day mortality rate** for ischemic stroke patients?
 2. What is the **average 30-day readmission rate**?
