@@ -1,2 +1,6 @@
-# Dashboard---Ischemic-Stroke
-A healthcare analytics dashboard that visualizes ischemic stroke outcomes by tracking 30-day mortality and readmission rates. The project provides insights by year, country, and hospital, highlighting top and bottom performers, trends over time, and key performance gaps to support evidence-based healthcare improvements.
+# Ischemic Stroke – Outcome & Performance Dashboard
+## Project Objective
+To evaluate and monitor ischemic stroke outcomes by analyzing **30-day mortality** and **30-day readmission** rates, enabling stakeholders to:
+- Identify trends over time
+- Compare hospital performance
+- Support data-driven decision-making for improving healthcare quality
