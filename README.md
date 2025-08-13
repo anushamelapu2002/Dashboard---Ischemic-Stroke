@@ -11,12 +11,12 @@ To evaluate and monitor ischemic stroke outcomes by analyzing **30-day mortality
 - Dataset Used:
 - <a href="https://catalog.data.gov/dataset/ischemic-stroke-30-day-mortality-and-30-day-readmission-rates-and-quality-ratings-for-ca-h-92036"
 ## Key Questions / KPIs
-1. What is the **average 30-day mortality rate** for ischemic stroke patients?
+1. What is the **average 30-day mortality rate**?
 2. What is the **average 30-day readmission rate**?
 3. How do mortality and readmission rates **vary by year**?
 4. Which hospitals have the **lowest** and **highest** mortality rates?
-5. How do outcomes differ **across countries/counties**?
-6. What is the **performance gap** between the top 10 and bottom 10 hospitals?
+5. How do outcomes differ **across countries**?
+6. What is the **average Risk-Adjusted Rate** of the top 10 and bottom 10 hospitals?
 ## Process
 ### 1. Data Collection
 - Gathered ischemic stroke outcome data from official healthcare sources.
